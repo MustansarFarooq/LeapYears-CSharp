@@ -6,5 +6,5 @@ Note: Any contributions to make this repository better will be taken into consid
 
 
 # Contact
-Discord: 波風#7968
+Discord: aucticslic#7968
 Please only contact in English.
